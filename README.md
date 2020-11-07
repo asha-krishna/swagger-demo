@@ -4,3 +4,7 @@
 2. Open Swagger url http://localhost:8080/swagger-ui.html#/ and looks like below.
 ![image](https://user-images.githubusercontent.com/73759012/98451125-f5163a00-2110-11eb-9d29-f5c5e9a1ac31.png)
 3. Perform opearions POST (add), GET (retrieve), PUT (update) and DELETE (delete).
+4. First add contry using POST by giving countryCode and countryName.
+5. If we want to see what all countries available perform GET operation
+![image](https://user-images.githubusercontent.com/73759012/98451185-68b84700-2111-11eb-81ba-7ec3293a743a.png)
+
