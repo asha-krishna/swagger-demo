@@ -13,6 +13,6 @@
 7. Below os for GET operation
 ![image](https://user-images.githubusercontent.com/73759012/98451324-a36eaf00-2112-11eb-9094-6de8a5d8d25c.png)
 8. To update any countryName use PUT operation
-
+![image](https://user-images.githubusercontent.com/73759012/98451378-0e1fea80-2113-11eb-8465-e8e04e9542d7.png)
 9. DELETE is used to delete any specific country
-
+![image](https://user-images.githubusercontent.com/73759012/98451393-25f76e80-2113-11eb-891a-4c5a7af1d9b6.png)
