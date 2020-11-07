@@ -8,3 +8,6 @@
 5. If we want to see what all countries available perform GET operation
 ![image](https://user-images.githubusercontent.com/73759012/98451185-68b84700-2111-11eb-81ba-7ec3293a743a.png)
 
+6. Suppose If we want to use Postman instead of Swagger-UI, below is sample for POST operation
+![image](https://user-images.githubusercontent.com/73759012/98451289-5ab6f600-2112-11eb-9ee8-1687aa5c9ce9.png)
+
