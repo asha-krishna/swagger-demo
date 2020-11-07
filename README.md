@@ -10,4 +10,9 @@
 
 6. Suppose If we want to use Postman instead of Swagger-UI, below is sample for POST operation
 ![image](https://user-images.githubusercontent.com/73759012/98451289-5ab6f600-2112-11eb-9ee8-1687aa5c9ce9.png)
+7. Below os for GET operation
+![image](https://user-images.githubusercontent.com/73759012/98451324-a36eaf00-2112-11eb-9094-6de8a5d8d25c.png)
+8. To update any countryName use PUT operation
+
+9. DELETE is used to delete any specific country
 
